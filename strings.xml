@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculadoraJurosCompostos</string>
+        <string name="hint_present_value">Valor Presente</string>
+        <string name="hint_monthly_investment">Investimento Mensal Previsto</string>
+        <string name="hint_interest_rate">Taxa de Juros (%)</string>
+        <string name="hint_duration">Prazo de Aplicação (meses)</string>
+        <string name="result_label">Valor Futuro da Aplicação:</string>
+        <string name="calculate_button">Calcular</string>
+        <string name="clear_button">Limpar</string>
+</resources>
